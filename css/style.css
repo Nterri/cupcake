@@ -136,7 +136,7 @@ body.lock {
 }
 
 .header {
-  background: url(png/bg1.png) center/cover no-repeat;
+  background: url(../png/bg1.png) center/cover no-repeat;
 }
 
 .head {
@@ -221,7 +221,7 @@ body.lock {
 }
 
 .head__tag::before {
-  content: url(svg/tag.svg);
+  content: url(../svg/tag.svg);
   position: absolute;
   left: 0;
   top: 50%;
@@ -237,7 +237,7 @@ body.lock {
 }
 
 .head__phone::before {
-  content: url(svg/phone.svg);
+  content: url(../svg/phone.svg);
   position: absolute;
   left: 0;
   top: 50%;
@@ -501,7 +501,7 @@ body.lock {
 
 .make {
   padding: 450px 0;
-  background: url(png/bg2.png) center/cover no-repeat;
+  background: url(../png/bg2.png) center/cover no-repeat;
 }
 
 @media (max-width: 768px) {
@@ -693,7 +693,7 @@ body.lock {
 
 .question__decor {
   position: absolute;
-  background: url(png/woman.png) 60px 100% no-repeat, #fed84c;
+  background: url(../png/woman.png) 60px 100% no-repeat, #fed84c;
   width: 580px;
   height: 580px;
   top: 170px;
@@ -788,7 +788,7 @@ body.lock {
 
 .reviews {
   padding: 200px 0 300px;
-  background: url(png/bgreviews.png) center/cover no-repeat;
+  background: url(../png/bgreviews.png) center/cover no-repeat;
 }
 
 @media (max-width: 992px) {
@@ -1036,7 +1036,7 @@ body.lock {
 }
 
 .slick-arrow.slick-prev {
-  content: url(svg/arrowprev.svg);
+  content: url(../svg/arrowprev.svg);
   -webkit-transform: translate(-50px, 50px);
           transform: translate(-50px, 50px);
   padding: 20px 25px;
@@ -1051,7 +1051,7 @@ body.lock {
 }
 
 .slick-arrow.slick-next {
-  content: url(svg/arrownext.svg);
+  content: url(../svg/arrownext.svg);
   -webkit-transform: translate(50px, 50px);
           transform: translate(50px, 50px);
   padding: 20px 25px;
@@ -1120,7 +1120,7 @@ body.lock {
 .footer {
   padding: 300px 0 90px;
   color: #2e363e;
-  background: url(png/footer-bg.png) center/cover no-repeat;
+  background: url(../png/footer-bg.png) center/cover no-repeat;
 }
 
 @media (max-width: 768px) {
@@ -1216,7 +1216,7 @@ body.lock {
 .number {
   font-size: 15px;
   line-height: 160%;
-  background: url(svg/phone-form.svg) 30px center no-repeat, #f2f6fa;
+  background: url(../svg/phone-form.svg) 30px center no-repeat, #f2f6fa;
 }
 
 @media (min-width: 993px) {
